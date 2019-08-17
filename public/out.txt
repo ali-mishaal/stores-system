@@ -1,0 +1,25 @@
+http://localhostz8000/print/3
+
+Invoice.
+
+client name: hameed
+
+bill detail:
+
+item, store3, 5, 70 EGB, 0 EGB, 350 EGB,
+
+item6, store3, 5, 150 EGB, 37.5 EGB, 787.5 EGB,
+
+item2, store, 5, 120 EGB, 0 EGB, 600 EGB,
+Invoice: #3
+
+Date Of Bill: 2019-06-21
+total: 1737.5 EGB
+
+total Tax: 37.5 EGB
+paid: 0 EGB
+
+remain: 1737.5 EGB
+
+1 of 1 6/24/2019, 4:02 PM
+
